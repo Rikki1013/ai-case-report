@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 实践案例报告"
+  short_description: "把真实 AI 实践整理成可提交案例报告"
+  default_prompt: "Use $ai-case-report to turn my AI practice into a concise structured case report."
